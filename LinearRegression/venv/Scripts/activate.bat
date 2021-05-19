@@ -8,7 +8,11 @@ if defined _OLD_CODEPAGE (
     "%SystemRoot%\System32\chcp.com" 65001 > nul
 )
 
+<<<<<<< HEAD
 set VIRTUAL_ENV=C:\Users\shuva\PycharmProjects\LinearRegression\venv
+=======
+set VIRTUAL_ENV=C:\Users\shuva\Git_repositories\Pycharm_projects\LinearRegression\venv
+>>>>>>> e0eef2396e87ff962e1d1c36b1c66370956b9211
 
 if not defined PROMPT set PROMPT=$P$G
 
